@@ -10,3 +10,9 @@ Each folder covers a different methodology commonly used in empirical economic w
 - Instrumental Variable Estimation
 - Regression Discontinuity Design
 - Difference-in-Differences
+
+### Topics In Progress
+1. Bartik Instruments
+2. Structural Estimation
+* MLE, GMM, SMM
+* Demand Estimation
