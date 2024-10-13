@@ -64,7 +64,7 @@ eststo m1: reg fte time state postxtreat
 eststo m2: reg fte time state postxtreat, robust
 eststo m3: reg fte time state postxtreat, vce(cluster store)
 
-esttab m1 m2 m3 using "$didexport\Table2.tex", replace se star(* 0.1 ** 0.05 *** 0.01) b(%9.3f)
+esttab m1 m2 m3 using "$didexport\regtable.tex", replace se star(* 0.1 ** 0.05 *** 0.01) b(%9.3f)
 
 
 log close	
