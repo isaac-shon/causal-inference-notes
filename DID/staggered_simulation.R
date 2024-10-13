@@ -124,3 +124,4 @@ modelsummary(models,
              title = "Aggregated ATT(g,t) Estimates",
              output = "writeup/Table3.tex")
 
+#- END -#
