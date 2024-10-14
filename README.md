@@ -15,4 +15,3 @@ Each folder covers a different methodology commonly used in empirical economic w
 1. Bartik Instruments
 2. Structural Estimation
 * MLE, GMM, SMM
-* Demand Estimation
